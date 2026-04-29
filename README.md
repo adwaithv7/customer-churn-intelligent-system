@@ -15,9 +15,9 @@ Objectives:
 
 Models Used:
 
-* Logistic Regression
+* Logistic Regression (Best Performing)
 * Decision Tree
-* Random Forest (Best Performing)
+* Random Forest 
 
 Features:
 
